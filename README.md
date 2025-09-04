@@ -49,5 +49,3 @@ Este análisis muestra que:
 - **Crecen mucho** si la figura se agranda.
 - **Disminuyen** si se pierde información al rotar o invertir colores.
 - Incluso puede pasar que la figura **desaparezca** si la operación borra todos sus píxeles.
-
-En pocas palabras, estas mediciones nos ayudan a diferenciar cuándo una transformación **solo cambia la apariencia** de la imagen y cuándo **cambia realmente la forma o tamaño de la figura**.
